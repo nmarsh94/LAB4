@@ -2,7 +2,7 @@
 
 ## Trabajo Práctico N° 1
 
-### Repositorio - Trabajo Práctico N°1.
+### Repositorio
 
 Curriculum Vitae --> [CV](CV.md).
 
