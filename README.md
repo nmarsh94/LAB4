@@ -6,4 +6,4 @@
 
 Curriculum Vitae --> [CV](CV.md).
 
-Pull request --> [definicion](PullRequest.md).
+Pull request --> [definicion](pullRequest.md).
